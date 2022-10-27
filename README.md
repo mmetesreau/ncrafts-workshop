@@ -1,1 +1,3 @@
-# NCrafts workshop - Crafting code by Sandro Mancuso
+# NCrafts workshop
+
+Crafting code by Sandro Mancuso
